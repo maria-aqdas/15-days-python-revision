@@ -1,105 +1,105 @@
 # 🐍 15 Days Python Revision
 
-### From Python Fundamentals to Strong Programming Foundations
+### `Learning → Practicing → Building → Preparing for DSA`
 
-This repository documents my **15-day Python revision journey**.
-
-I have already studied Python before, so this is not a beginner course. The goal of this challenge is to **refresh my Python knowledge, strengthen my programming logic, practice consistently, and build a strong foundation before starting Data Structures & Algorithms (DSA).**
-
-Instead of only watching tutorials, I will learn through a combination of **concept revision, hands-on coding, problem solving, and daily practice.**
-
----
-
-## 🎯 What I Want to Achieve
-
-By the end of these 15 days, I aim to:
-
-* Refresh Python fundamentals
-* Strengthen programming logic
-* Become more confident writing Python without relying on tutorials
-* Practice solving problems independently
-* Understand Python concepts through hands-on coding
-* Improve code structure and readability
-* Build consistency through daily practice
-* Create a strong foundation for learning **DSA and LeetCode**
+[![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)](https://www.python.org/)
+[![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git\&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/Hosted%20on-GitHub-black?logo=github\&logoColor=white)](https://github.com/)
 
 ---
 
-# 📚 15-Day Learning Roadmap
+## 🌱 About This Journey
 
-| Day       | Focus                 | What I Will Practice                                                              |
-| --------- | --------------------- | --------------------------------------------------------------------------------- |
-| 🟢 **01** | Python Fundamentals   | Variables, Data Types, Input/Output, Type Casting, Operators, Conditions          |
-| **02**    | Loops                 | `for`, `while`, nested loops, `break`, `continue`, pattern & logic problems       |
-| **03**    | Strings               | Indexing, slicing, string methods, traversal, string problems                     |
-| **04**    | Lists                 | List methods, indexing, slicing, nested lists, list-based problems                |
-| **05**    | Tuples & Sets         | Tuple operations, set operations, uniqueness and membership problems              |
-| **06**    | Dictionaries          | Key-value pairs, dictionary methods, traversal, frequency counting                |
-| **07**    | Functions             | Parameters, arguments, return values, default arguments, scope                    |
-| **08**    | Advanced Functions    | `*args`, `**kwargs`, lambda, `map()`, `filter()`, `zip()`, `enumerate()`          |
-| **09**    | Pythonic Programming  | Comprehensions, built-in functions, cleaner and more efficient Python             |
-| **10**    | Recursion             | Base case, recursive case, call stack, recursive problem solving                  |
-| **11**    | OOP                   | Classes, objects, constructors, methods, inheritance, encapsulation, polymorphism |
-| **12**    | File & Error Handling | File handling, exceptions, `try`, `except`, `finally`                             |
-| **13**    | Modules & Packages    | Imports, modules, packages and organizing Python code                             |
-| **14**    | NumPy & Pandas        | Arrays, DataFrames, data manipulation and basic analysis                          |
-| **15**    | Final Revision        | Mixed Python problems, concept review and independent coding                      |
+This repository is my **15-day Python revision challenge**, created to strengthen my programming fundamentals before starting **Data Structures & Algorithms (DSA)**.
+
+I have studied Python before, so this is not about learning everything from scratch.
+
+The focus is on:
+
+**Understanding concepts → writing code → solving problems → fixing mistakes → building confidence.**
+
+> 💡 **The goal is not to memorize Python. The goal is to become comfortable using Python to solve problems.**
 
 ---
 
-# 🛠️ Tools & Technologies
+## 🎯 What I Aim to Build in 15 Days
 
-During this challenge, I will use:
+By the end of this challenge, I want to be able to:
 
-### 💻 Visual Studio Code
-
-My primary coding environment for writing and testing Python programs.
-
-### 🐍 Python
-
-The main programming language used throughout this revision challenge.
-
-### 🔀 Git
-
-To track changes and maintain the history of my learning journey.
-
-### 🌐 GitHub
-
-To store my code, organize the 15-day challenge, and publicly document my progress.
-
-### 📓 Jupyter Notebook
-
-Used mainly when working with **NumPy, Pandas, data exploration, and experimentation**.
-
-### 🤖 AI Assistance
-
-Used only when needed for **hints, explanations, debugging guidance, or understanding mistakes**, while keeping the actual problem-solving process my own.
+* 🧠 Explain core Python concepts clearly
+* 💻 Write Python programs independently
+* 🔍 Approach problems logically
+* 🛠️ Debug and improve my own code
+* ✨ Write cleaner and more readable Python
+* 📚 Practice consistently every day
+* 🚀 Build a strong foundation for DSA and LeetCode
 
 ---
 
-# 🧠 My Learning Method
+# 🗺️ 15-Day Roadmap
 
-For each topic, I will follow this process:
+|    Day   | Topic                 | Focus                                                      |
+| :------: | --------------------- | ---------------------------------------------------------- |
+| ✅ **01** | Python Fundamentals   | Variables, data types, input/output, operators, conditions |
+| ⬜ **02** | Loops                 | `for`, `while`, nested loops, loop control                 |
+| ⬜ **03** | Strings               | Indexing, slicing, methods, string problems                |
+| ⬜ **04** | Lists                 | Methods, slicing, nested lists, problem solving            |
+| ⬜ **05** | Tuples & Sets         | Operations, uniqueness, membership                         |
+| ⬜ **06** | Dictionaries          | Key-value data, methods, frequency counting                |
+| ⬜ **07** | Functions             | Parameters, arguments, return values, scope                |
+| ⬜ **08** | Advanced Functions    | `*args`, `**kwargs`, lambda, `map`, `filter`, `zip`        |
+| ⬜ **09** | Pythonic Programming  | Comprehensions and useful built-in functions               |
+| ⬜ **10** | Recursion             | Base cases, recursive thinking, call stack                 |
+| ⬜ **11** | OOP                   | Classes, objects, inheritance, encapsulation               |
+| ⬜ **12** | File & Error Handling | Files, exceptions, `try`, `except`, `finally`              |
+| ⬜ **13** | Modules & Packages    | Imports and code organization                              |
+| ⬜ **14** | NumPy & Pandas        | Arrays, DataFrames, basic data manipulation                |
+| ⬜ **15** | Final Revision        | Mixed problems and independent coding                      |
+
+---
+
+# 🧩 My Daily Learning System
+
+Every day follows the same cycle:
 
 ```text
-Learn / Revise Concept
-        ↓
-Write Small Examples
-        ↓
-Practice 10 Problems
-        ↓
-Solve Without Looking at Solutions
-        ↓
-Review Mistakes
-        ↓
-Refactor / Improve Code
-        ↓
-Commit to GitHub
+       📖 CONCEPT
+           ↓
+       💻 CODE
+           ↓
+       🧩 PRACTICE
+           ↓
+       🧠 PROBLEM SOLVING
+           ↓
+       🔍 DEBUG
+           ↓
+       🔄 REVISE
+           ↓
+       📌 COMMIT
 ```
 
-The focus is not just on completing questions.
+### Daily Target
 
-The goal is to understand **why the code works**.
+**1 topic → concept revision → 10 focused problems/examples → review mistakes → GitHub commit**
+
+The difficulty will gradually increase:
+
+`Easy → Concept Practice → Logic Building → Challenge`
+
+---
+
+# 🛠️ Tools I Am Using
+
+| Tool                    | Purpose                                      |
+| ----------------------- | -------------------------------------------- |
+| 🐍 **Python**           | Programming language                         |
+| 💻 **VS Code**          | Writing and testing Python code              |
+| 🔀 **Git**              | Version control                              |
+| 🐙 **GitHub**           | Storing and documenting the journey          |
+| 📓 **Jupyter Notebook** | Mainly for NumPy, Pandas and experimentation |
+
+AI tools may be used for **hints, explanations and debugging guidance**, while the actual coding and problem solving remain my own practice.
 
 ---
 
@@ -108,108 +108,100 @@ The goal is to understand **why the code works**.
 ```text
 15-Days-Python-Revision/
 │
-├── README.md
+├── 📄 README.md
 │
-├── Day-01-Fundamentals/
-│   ├── concepts.py
-│   ├── q01_even_or_odd.py
-│   ├── q02_positive_negative_zero.py
-│   ├── q03_largest_of_two.py
-│   ├── ...
-│   └── notes.md
-│
-├── Day-02-Loops/
-│
-├── Day-03-Strings/
-│
-├── Day-04-Lists/
-│
-├── ...
-│
-└── Day-15-Final-Revision/
+├── 📁 Day-01-Fundamentals/
+├── 📁 Day-02-Loops/
+├── 📁 Day-03-Strings/
+├── 📁 Day-04-Lists/
+├── 📁 Day-05-Tuples-Sets/
+├── 📁 Day-06-Dictionaries/
+├── 📁 Day-07-Functions/
+├── 📁 Day-08-Advanced-Functions/
+├── 📁 Day-09-Pythonic-Programming/
+├── 📁 Day-10-Recursion/
+├── 📁 Day-11-OOP/
+├── 📁 Day-12-File-Handling/
+├── 📁 Day-13-Modules/
+├── 📁 Day-14-NumPy-Pandas/
+└── 📁 Day-15-Final-Revision/
 ```
 
-Each day will contain the code and practice work related to that day's topic.
+Each folder contains the code and practice work for that day.
 
 ---
 
-# 📈 Progress Tracker
+# 📊 Progress
 
-* [x] Day 01 — Python Fundamentals
-* [ ] Day 02 — Loops
-* [ ] Day 03 — Strings
-* [ ] Day 04 — Lists
-* [ ] Day 05 — Tuples & Sets
-* [ ] Day 06 — Dictionaries
-* [ ] Day 07 — Functions
-* [ ] Day 08 — Advanced Functions
-* [ ] Day 09 — Pythonic Programming
-* [ ] Day 10 — Recursion
-* [ ] Day 11 — OOP
-* [ ] Day 12 — File & Error Handling
-* [ ] Day 13 — Modules & Packages
-* [ ] Day 14 — NumPy & Pandas
-* [ ] Day 15 — Final Revision
+### `01 / 15 Days Completed`
+
+**Python Fundamentals** █████░░░░░░░░░░░
+
+* [x] Day 01
+* [ ] Day 02
+* [ ] Day 03
+* [ ] Day 04
+* [ ] Day 05
+* [ ] Day 06
+* [ ] Day 07
+* [ ] Day 08
+* [ ] Day 09
+* [ ] Day 10
+* [ ] Day 11
+* [ ] Day 12
+* [ ] Day 13
+* [ ] Day 14
+* [ ] Day 15
+
+> 🔄 Progress will be updated throughout the challenge.
 
 ---
 
-# 📊 Daily Practice
+# 📈 What Comes Next?
 
-Each day will include approximately **10 focused coding problems or examples**.
-
-The difficulty will gradually increase:
+This challenge is the **foundation**, not the destination.
 
 ```text
-Easy
-  ↓
-Concept Practice
-  ↓
-Logic Building
-  ↓
-Problem Solving
-  ↓
-Challenge
+🐍 Python
+   ↓
+🧠 Programming Fundamentals
+   ↓
+🌳 Data Structures & Algorithms
+   ↓
+💡 Problem Solving
+   ↓
+💻 LeetCode
+   ↓
+📊 Data Science & Machine Learning
 ```
 
-I will prioritize **understanding and problem-solving over simply completing a large number of questions.**
+After completing these 15 days, I plan to begin **DSA from the fundamentals** and gradually move toward **LeetCode problem solving**.
 
 ---
 
-# 🚀 Where This Journey Leads
+# 💭 Why I Am Doing This
 
-This 15-day revision is the preparation stage for my next learning goal:
+Learning is not about finishing a tutorial.
 
-```text
-Python Revision
-      ↓
-Strong Programming Fundamentals
-      ↓
-Data Structures & Algorithms
-      ↓
-Problem Solving
-      ↓
-LeetCode
-      ↓
-Machine Learning & Data Science
-```
+It is about being able to sit in front of an empty editor and think:
 
-The purpose of this repository is therefore not just to collect Python files.
+> **"I know how to approach this."**
 
-It is a record of my progress from **Python revision to stronger problem-solving skills.**
+This repository is my attempt to build that confidence through **consistent practice, one day at a time.**
 
 ---
 
-# 🌱 Learning in Public
-
-I am using this repository to document my learning journey, track my consistency, and create a record of what I build and practice along the way.
+## 🚀 Day 1 Started!
 
 **15 days.
-One language.
-Daily practice.
-Stronger foundations. 🐍💻**
+15 topics.
+150+ practice problems.
+One stronger Python foundation.**
+
+Let's code. 🐍💻
 
 ---
 
-## ⭐ Final Goal
+### ⭐ If you are learning Python too...
 
-> **Don't just learn Python. Understand it, practice it, and use it to solve problems.**
+Feel free to explore the repository, practice the problems, and learn along with me.
