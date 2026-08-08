@@ -1,7 +1,7 @@
 # VARIABLE:  A varibale is a container used to store and manage data.
 a= 12
 print(a)
-
+ 
 # DATA TYPE: In which type we store our data
 b=10
 c="Maria Aqdas"  
