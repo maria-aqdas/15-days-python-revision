@@ -5,7 +5,7 @@ print(a)
 # DATA TYPE: In which type we store our data
 b=10
 c="Maria Aqdas"    
-d=12.4  
+d=12.4   
 e=True
 print(type(b))
 print(type(c))
