@@ -143,7 +143,7 @@ print("----------")
 
 #Q6. Factorial
 num=int(input("Enter a number: "))
-factorial=1
+factorial=1  
 for i in range(1, num+1):
     factorial*=i
 print("The factorial of", num, "is:", factorial)
