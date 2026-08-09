@@ -3,7 +3,7 @@
 
 #WHILE LOOP: A while loop repeatedly executes a block of code as long as a specified condition is true. The syntax is:
 # while condition:
-count=0
+count=0 
 while count<5: 
     print("The count is:", count) 
     count+=1 
