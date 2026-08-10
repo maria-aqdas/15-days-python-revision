@@ -8,7 +8,7 @@ print("------------------------------")
 # FORMATED STRING: A formatted string is a string that contains placeholders for variables or expressions.
 # There are 3 types of formatted strings in Python: f-strings, str.format() method, and % formatting.
 #  % formatting.
-Name= "Maria Aqdas"
+Name= "Maria Aqdas " 
 age=20
 print("My name is %s and I am %d years old." % (Name, age))
 print("------------------------------")
