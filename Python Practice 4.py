@@ -107,7 +107,7 @@ my_list = ["apple", "banana", "cherry", "date", "elderberry"]
 # Slicing from index 1 to 3 (excluding index 3) 
 sliced_list = my_list[1:3]
 print(sliced_list)  # Output: ['banana', 'cherry']
-
+print("---------------")
 # Slicing from the beginning to index 3 (excluding index 3)
 sliced_list = my_list[:3]
 print(sliced_list)  # Output: ['apple', 'banana', 'cherry']
