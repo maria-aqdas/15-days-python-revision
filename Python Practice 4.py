@@ -23,6 +23,7 @@ print("---------------")
 #Nested list: A list can also contain other lists, this is called nested list.
 my_list = ["mouse", [8, 4, 6], ['a']]
 print(my_list)
+print("---------------")
 
 #Accessing list items: You can access the list items by referring to the index number.
 my_list = ["apple", "banana", "cherry"]
