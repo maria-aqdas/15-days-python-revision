@@ -64,6 +64,7 @@ print("---------------")
 my_list = [3, 1, 4, 2, 5]
 my_list.reverse()
 print(my_list)  # Output: [5, 2, 4, 1, 3]
+print("---------------")
 
 # List Copy: You cannot copy a list simply by typing list2 = list1, because list2 will only be a reference to list1, and changes made in list1 will automatically also be made in list2. There are ways to make a copy, one way is to use the built-in List method copy().
 my_list = ["apple", "banana", "cherry"]
