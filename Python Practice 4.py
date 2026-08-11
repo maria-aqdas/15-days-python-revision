@@ -29,6 +29,7 @@ print("---------------")
 my_list = ["apple", "banana", "cherry"]
 print(my_list[0])  # Output: apple
 print(my_list[1])  # Output: banana
+print("---------------")
 
 #Accessing nested list items: You can access the items of a nested list by referring to the index number of the list, followed by the index number of the item inside that list.
 my_list = ["mouse", [8, 4, 6], ['a']]
