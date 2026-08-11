@@ -8,6 +8,7 @@ print(my_list)
 my_list = ["apple", "banana", "cherry"] 
 print(my_list)
 
+
 #list of integers
 my_list = [1, 5, 7, 9, 3]
 print(my_list)
