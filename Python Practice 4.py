@@ -13,10 +13,12 @@ print("---------------")
 #list of integers
 my_list = [1, 5, 7, 9, 3]
 print(my_list)
+print("---------------")
 
 #list of mixed data types
 my_list = ["abc", 34, True, 40, "male"]
 print(my_list)
+print("---------------")
 
 #Nested list: A list can also contain other lists, this is called nested list.
 my_list = ["mouse", [8, 4, 6], ['a']]
