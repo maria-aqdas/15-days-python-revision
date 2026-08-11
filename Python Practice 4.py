@@ -47,6 +47,7 @@ print("---------------")
 # Range of indexes: You can specify a range of indexes by specifying where to start and where to end the range.
 my_list = ["apple", "banana", "cherry", "date", "elderberry"]
 print(my_list[2:5])  # Output: ['cherry', 'date', 'elderberry']
+print("---------------")
 
 # List length: To determine how many items a list has, use the len() function.
 my_list = ["apple", "banana", "cherry"]
