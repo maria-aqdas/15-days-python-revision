@@ -8,7 +8,7 @@ print("---------------")
 #list of strings
 my_list = ["apple", "banana", "cherry"] 
 print(my_list)
-
+print("---------------")
 
 #list of integers
 my_list = [1, 5, 7, 9, 3]
