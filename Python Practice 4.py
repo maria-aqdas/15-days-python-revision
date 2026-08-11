@@ -52,6 +52,7 @@ print("---------------")
 # List length: To determine how many items a list has, use the len() function.
 my_list = ["apple", "banana", "cherry"]
 print(len(my_list))  # Output: 3
+print("---------------")
 
 # List Sorting: Lists have a built-in sort() method that sorts the list ascending by default.
 my_list = [3, 1, 4, 2, 5]
