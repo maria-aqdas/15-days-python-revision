@@ -36,6 +36,7 @@ my_list = ["mouse", [8, 4, 6], ['a']]
 print(my_list[0])      # Output: mouse
 print(my_list[1])      # Output: [8, 4, 6]  
 print(my_list[2])      # Output: ['a']
+print("---------------")
 
 # Negative indexing: Negative indexing means beginning from the end, -1 refers to the last item, -2 refers to the second last item etc.
 my_list = ["apple", "banana", "cherry"]
