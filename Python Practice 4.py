@@ -42,6 +42,7 @@ print("---------------")
 my_list = ["apple", "banana", "cherry"]
 print(my_list[-1])  # Output: cherry
 print(my_list[-2])  # Output: banana
+print("---------------")
 
 # Range of indexes: You can specify a range of indexes by specifying where to start and where to end the range.
 my_list = ["apple", "banana", "cherry", "date", "elderberry"]
