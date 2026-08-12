@@ -144,5 +144,4 @@ print(complex_tuple)  # Output: ((1+2j), (3+4j))
 # 27. tuple with frozenset: Tuples can contain frozensets, which are immutable sets.
 frozenset_tuple = (frozenset([1, 2, 3]), frozenset([4, 5, 6]))
 print(frozenset_tuple)  # Output: (frozenset({1, 2, 3}), frozenset({4, 5, 6}))
-
-# 28. 
+print("------------")
