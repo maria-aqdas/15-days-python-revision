@@ -19,6 +19,8 @@ print("------------")
 # creating a tuple with one item
 single_item_tuple = ("apple",)  
 print(single_item_tuple)
+print("------------")
+
 
 # creating a tuple without parentheses
 single_item_tuple2 = "apple",
