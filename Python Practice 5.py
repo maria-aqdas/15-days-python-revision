@@ -1,6 +1,7 @@
 # Tuples: A tuple is a collection which is ordered and unchangeable. In Python tuples are written with round brackets.
 fruits=("apple", "banana", "cherry")
 print(fruits)
+print("------------")
 
 # creating tuples in different ways
 # 1. Using parentheses 
