@@ -14,6 +14,7 @@ print("------------")
 # without parentheses
 fruits2 = "apple", "banana", "cherry"
 print(fruits2)
+print("------------")
 
 # creating a tuple with one item
 single_item_tuple = ("apple",)  
