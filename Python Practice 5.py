@@ -9,6 +9,7 @@ colors = ("red", "green", "blue")
 numbers = (1, 2, 3, 4, 5)
 mixed_tuple = ("apple", 1, True, 3.14)
 nested_tuple = (1, 2, ("a", "b", "c"), 3)
+print("------------")
 
 # without parentheses
 fruits2 = "apple", "banana", "cherry"
