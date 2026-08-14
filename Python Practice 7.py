@@ -8,7 +8,7 @@ def greetings():
 greetings()
 
 
-# 2. Function to Add Two Numbers
+# 2. Function to Add Two Numbers   
 
 # a, b are parameters
 def add_two_numbers(a, b):
