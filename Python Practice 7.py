@@ -62,7 +62,7 @@ def celsius_to_fahrenheit(celsius):
 temp_f = celsius_to_fahrenheit(25)
 print(temp_f)
 print("With Return:", type(temp_f))  # Returns <class 'float'>
-
+  
 
 # Method B: Without Return (Using Print inside function)
 def celsius_to_fahrenheit_print(celsius):
