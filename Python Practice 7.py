@@ -6,7 +6,7 @@
 def greetings():
     print("Welcome to the Python course by Rishabh")
 
-# Calling/Using the function
+# Calling/Using the function  
 greetings()
 
 # ==========================================
