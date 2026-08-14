@@ -3,7 +3,7 @@
 # 1. Create Function without Parameters
 # ==========================================  
 
-def greetings():
+def greetings():  
     print("Welcome to the Python course by Rishabh")
 
 # Calling/Using the function  
