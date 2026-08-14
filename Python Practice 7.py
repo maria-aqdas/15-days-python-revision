@@ -23,7 +23,6 @@ add_two_numbers(a=10, b=100)
 add_two_numbers(b=50, a=10)
 
 
-# ==========================================
 # Function to Add Three Numbers
 # ==========================================
 
