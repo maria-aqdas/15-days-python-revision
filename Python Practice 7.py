@@ -7,7 +7,7 @@ def greetings():
 # Calling/Using the function  
 greetings()
 
-# ==========================================
+
 # 2. Function to Add Two Numbers
 # ==========================================
 
