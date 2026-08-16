@@ -71,7 +71,6 @@ student.introduce()
 print("-" * 50)
 
 # Q4. CALCULATOR CLASS
-# ============================================================
 # This class contains four methods:
 # add()
 # subtract()
