@@ -27,7 +27,6 @@ class StudentInfo:
         self.age = age
         self.field = field
 
-
 # Creating two StudentInfo objects
 student1 = StudentInfo("Maria", 16, "Data Science")
 student2 = StudentInfo("Ali", 17, "Computer Science")
@@ -48,8 +47,6 @@ print("Field:", student2.field)
 
 print("-" * 50)
 
-
-# ============================================================
 # Q3. STUDENT INTRODUCTION
 # ============================================================
 # A function inside a class is called a method.
