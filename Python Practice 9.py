@@ -109,8 +109,6 @@ print("Division:", calc.divide(10, 5))
 
 print("-" * 50)
 
-
-# ============================================================
 # Q5. RECTANGLE CLASS
 # ============================================================
 # The Rectangle class has two attributes:
