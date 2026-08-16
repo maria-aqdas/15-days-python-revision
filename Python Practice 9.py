@@ -425,34 +425,19 @@ def show_students():
 # ------------------------------------------------------------
 
 def search_student():
-
     name = input("Enter student name to search: ")
-
     # Search through all objects
     for student in student_list:
-
         if student.name.lower() == name.lower():
-
             print("Student found!")
-
             print("Name:", student.name)
             print("Marks:", student.marks)
-
             return
-
     print("Student not found.")
-
-
-# ------------------------------------------------------------
 # Function: Update Marks
-# ------------------------------------------------------------
-
 def update_marks():
-
     name = input("Enter student name: ")
-
     for student in student_list:
-
         if student.name.lower() == name.lower():
             new_marks = float(
                 input("Enter new marks: ")
