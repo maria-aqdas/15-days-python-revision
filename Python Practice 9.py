@@ -454,47 +454,26 @@ def update_marks():
     for student in student_list:
 
         if student.name.lower() == name.lower():
-
             new_marks = float(
                 input("Enter new marks: ")
             )
-
             # Update the object's marks
             student.marks = new_marks
-
             print("Marks updated successfully.")
-
             return
-
     print("Student not found.")
-
-
-# ------------------------------------------------------------
 # Function: Delete Student
-# ------------------------------------------------------------
-
 def delete_student():
-
     name = input("Enter student name to delete: ")
-
     for student in student_list:
-
         if student.name.lower() == name.lower():
-
-            # Remove object from list
             student_list.remove(student)
-
             print("Student deleted successfully.")
-
             return
-
     print("Student not found.")
 
 
-# ============================================================
 # MAIN MENU
-# ============================================================
-
 while True:
 
     print("\n")
