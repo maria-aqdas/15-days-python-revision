@@ -100,11 +100,9 @@ print("Division:", calc.divide(10, 5))
 print("-" * 50)
 
 # Q5. RECTANGLE CLASS
-# ============================================================
 # The Rectangle class has two attributes:
 # length
 # width
-#
 # It also has two methods:
 # area()
 # perimeter()
@@ -114,28 +112,21 @@ class Rectangle:
     def __init__(self, length, width):
         self.length = length
         self.width = width
-
     def area(self):
         return self.length * self.width
-
     def perimeter(self):
         return 2 * (self.length + self.width)
 
 
 # Creating Rectangle object
 rectangle = Rectangle(10, 5)
-
 print("Q5: Rectangle")
-
 print("Length:", rectangle.length)
 print("Width:", rectangle.width)
 print("Area:", rectangle.area())
 print("Perimeter:", rectangle.perimeter())
-
 print("-" * 50)
 
-
-# ============================================================
 # Q6. BANK ACCOUNT
 # ============================================================
 # This class represents a simple bank account.
