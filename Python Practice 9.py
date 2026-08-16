@@ -6,7 +6,6 @@
 class Student:
     pass
 
-
 # Creating two objects from the Student class
 student1 = Student()
 student2 = Student()
@@ -18,7 +17,6 @@ print(type(student2))
 print("-" * 50)
 
 # Q2. STUDENT ATTRIBUTES
-# ============================================================
 # __init__() is called automatically when an object is created.
 # self.name, self.age and self.field are instance attributes.
 
