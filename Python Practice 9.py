@@ -37,14 +37,11 @@ print("Student 1:")
 print("Name:", student1.name)
 print("Age:", student1.age)
 print("Field:", student1.field)
-
 print()
-
 print("Student 2:")
 print("Name:", student2.name)
 print("Age:", student2.age)
 print("Field:", student2.field)
-
 print("-" * 50)
 
 # Q3. STUDENT INTRODUCTION
@@ -81,32 +78,25 @@ class Calculator:
 
     def add(self, a, b):
         return a + b
-
     def subtract(self, a, b):
         return a - b
-
     def multiply(self, a, b):
         return a * b
-
     def divide(self, a, b):
 
         # Prevent division by zero
         if b == 0:
             return "Cannot divide by zero"
-
         return a / b
 
 
 # Creating Calculator object
 calc = Calculator()
-
 print("Q4: Calculator")
-
 print("Addition:", calc.add(10, 5))
 print("Subtraction:", calc.subtract(10, 5))
 print("Multiplication:", calc.multiply(10, 5))
 print("Division:", calc.divide(10, 5))
-
 print("-" * 50)
 
 # Q5. RECTANGLE CLASS
