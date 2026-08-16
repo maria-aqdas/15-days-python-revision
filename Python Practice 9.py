@@ -48,7 +48,6 @@ print("Field:", student2.field)
 print("-" * 50)
 
 # Q3. STUDENT INTRODUCTION
-# ============================================================
 # A function inside a class is called a method.
 # introduce() is a method of the StudentIntro class.
 
