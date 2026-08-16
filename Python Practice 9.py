@@ -1,6 +1,5 @@
 
 # Q1. CREATE A CLASS
-x
 # A class is a blueprint for creating objects.
 # Here, Student is an empty class.
 
@@ -18,8 +17,6 @@ print(type(student2))
 
 print("-" * 50)
 
-
-# ============================================================
 # Q2. STUDENT ATTRIBUTES
 # ============================================================
 # __init__() is called automatically when an object is created.
