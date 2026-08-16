@@ -128,51 +128,32 @@ print("Perimeter:", rectangle.perimeter())
 print("-" * 50)
 
 # Q6. BANK ACCOUNT
-# ============================================================
 # This class represents a simple bank account.
-#
 # Attributes:
 # account_holder
 # balance
-#
 # Methods:
 # deposit()
 # withdraw()
 # check_balance()
 
 class BankAccount:
-
     def __init__(self, account_holder, balance):
         self.account_holder = account_holder
         self.balance = balance
 
     # Add money to the account
     def deposit(self, amount):
-
         self.balance += amount
-
         print("Deposited:", amount)
-
-    # Withdraw money from the account
     def withdraw(self, amount):
-
-        # Check if enough balance is available
         if amount <= self.balance:
-
             self.balance -= amount
-
             print("Withdrawn:", amount)
-
         else:
-
             print("Insufficient balance")
-
-    # Display current balance
     def check_balance(self):
-
         print("Current Balance:", self.balance)
-
-
 # Creating BankAccount object
 account = BankAccount("Maria", 10000)
 
