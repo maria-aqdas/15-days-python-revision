@@ -501,96 +501,35 @@ while True:
     print("=" * 40)
     print("     STUDENT MANAGEMENT SYSTEM")
     print("=" * 40)
-
     print("1. Add Student")
     print("2. Show Students")
     print("3. Search Student")
     print("4. Update Marks")
     print("5. Delete Student")
     print("6. Exit")
-
     print("=" * 40)
-
     choice = input("Enter your choice: ")
-
-
-    # --------------------------------------------------------
     # Option 1: Add Student
-    # --------------------------------------------------------
-
     if choice == "1":
-
         add_student()
-
-
-    # --------------------------------------------------------
     # Option 2: Show Students
-    # --------------------------------------------------------
-
     elif choice == "2":
-
         show_students()
-
-
-    # --------------------------------------------------------
     # Option 3: Search Student
-    # --------------------------------------------------------
-
     elif choice == "3":
-
         search_student()
-
-
-    # --------------------------------------------------------
     # Option 4: Update Marks
-    # --------------------------------------------------------
-
     elif choice == "4":
-
         update_marks()
-
-
-    # --------------------------------------------------------
     # Option 5: Delete Student
-    # --------------------------------------------------------
-
     elif choice == "5":
-
         delete_student()
-
-
-    # --------------------------------------------------------
     # Option 6: Exit
-    # --------------------------------------------------------
-
     elif choice == "6":
-
         print("Program ended.")
-
         break
 
-
-    # --------------------------------------------------------
     # Invalid Choice
-    # --------------------------------------------------------
-
     else:
 
         print("Invalid choice. Please try again.")
-
-
-# ============================================================
-# 🐍 END OF DAY 9
-# ============================================================
-# Concepts revised:
-#
-# ✓ Class
-# ✓ Object
-# ✓ Attributes
-# ✓ Instance Attributes
-# ✓ Class Methods
-# ✓ __init__()
-# ✓ self
-# ✓ List of Objects
-# ✓ Basic OOP Project
-# ============================================================
