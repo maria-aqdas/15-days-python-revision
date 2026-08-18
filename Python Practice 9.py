@@ -68,13 +68,10 @@ class Calculator:
     def multiply(self, a, b):
         return a * b
     def divide(self, a, b):
-
         # Prevent division by zero
         if b == 0:
             return "Cannot divide by zero"
         return a / b
-
-
 # Creating Calculator object
 calc = Calculator()
 print("Q4: Calculator")
@@ -93,7 +90,6 @@ print("-" * 50)
 # perimeter()
 
 class Rectangle:
-
     def __init__(self, length, width):
         self.length = length
         self.width = width
@@ -101,8 +97,6 @@ class Rectangle:
         return self.length * self.width
     def perimeter(self):
         return 2 * (self.length + self.width)
-
-
 # Creating Rectangle object
 rectangle = Rectangle(10, 5)
 print("Q5: Rectangle")
