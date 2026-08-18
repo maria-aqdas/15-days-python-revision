@@ -5,15 +5,12 @@
 
 class Student:
     pass
-
 # Creating two objects from the Student class
 student1 = Student()
 student2 = Student()
-
 print("Q1: Class and Objects")
 print(type(student1))
 print(type(student2))
-
 print("-" * 50)
 
 # Q2. STUDENT ATTRIBUTES
