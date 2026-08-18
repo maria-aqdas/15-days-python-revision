@@ -18,18 +18,14 @@ print("-" * 50)
 # self.name, self.age and self.field are instance attributes.
 
 class StudentInfo:
-
     def __init__(self, name, age, field):
         self.name = name
         self.age = age
         self.field = field
-
 # Creating two StudentInfo objects
 student1 = StudentInfo("Maria", 16, "Data Science")
 student2 = StudentInfo("Ali", 17, "Computer Science")
-
 print("Q2: Student Attributes")
-
 print("Student 1:")
 print("Name:", student1.name)
 print("Age:", student1.age)
