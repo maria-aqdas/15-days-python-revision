@@ -174,50 +174,31 @@ print("-" * 50)
 # Then we find the student with the highest marks.
 
 class StudentMarks:
-
     def __init__(self, name, age, marks):
         self.name = name
         self.age = age
         self.marks = marks
-
-
 # Creating a list of Student objects
 students = [
-
     StudentMarks("Maria", 16, 92),
-
     StudentMarks("Ali", 17, 85),
-
     StudentMarks("Sara", 16, 95),
-
     StudentMarks("Ahmed", 17, 78),
-
     StudentMarks("Ayesha", 16, 88)
 ]
-
-
 print("Q8: Multiple Students")
-
 # Assume the first student has the highest marks
 highest = students[0]
-
 # Compare every student with the current highest
 for student in students:
-
     if student.marks > highest.marks:
-
         highest = student
-
-
 print("Student with highest marks:")
 print("Name:", highest.name)
 print("Age:", highest.age)
 print("Marks:", highest.marks)
-
 print("-" * 50)
 
-
-# ============================================================
 # Q9. SHOPPING CART
 # ============================================================
 # The ShoppingCart class stores items and their prices.
