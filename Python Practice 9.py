@@ -120,7 +120,6 @@ class BankAccount:
     def __init__(self, account_holder, balance):
         self.account_holder = account_holder
         self.balance = balance
-
     # Add money to the account
     def deposit(self, amount):
         self.balance += amount
@@ -161,26 +160,17 @@ class StudentGrade:
             return "D"
         else:
             return "F"
-
-
 # Creating a student object
 student = StudentGrade("Maria", 92)
-
 print("Q7: Student Grade")
-
 print("Name:", student.name)
 print("Marks:", student.marks)
 print("Grade:", student.calculate_grade())
-
 print("-" * 50)
 
-
-# ============================================================
 # Q8. MULTIPLE STUDENTS
-# ============================================================
 # Here we create multiple Student objects
 # and store them inside a list.
-#
 # Then we find the student with the highest marks.
 
 class StudentMarks:
