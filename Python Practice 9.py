@@ -42,16 +42,12 @@ print("-" * 50)
 # introduce() is a method of the StudentIntro class.
 
 class StudentIntro:
-
     def __init__(self, name, field):
         self.name = name
         self.field = field
-
     def introduce(self):
         print("Hi, my name is", self.name)
         print("I am studying", self.field)
-
-
 # Creating an object
 student = StudentIntro("Maria", "Data Science")
 
