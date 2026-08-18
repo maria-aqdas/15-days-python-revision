@@ -135,46 +135,30 @@ class BankAccount:
         print("Current Balance:", self.balance)
 # Creating BankAccount object
 account = BankAccount("Maria", 10000)
-
 print("Q6: Bank Account")
-
 account.check_balance()
-
 account.deposit(5000)
-
 account.withdraw(3000)
-
 account.check_balance()
-
 print("-" * 50)
 
-
-# ============================================================
 # Q7. STUDENT MARKS AND GRADE
-# ============================================================
 # This class stores student's name and marks.
 # calculate_grade() determines the grade based on marks.
 
 class StudentGrade:
-
     def __init__(self, name, marks):
         self.name = name
         self.marks = marks
-
     def calculate_grade(self):
-
         if self.marks >= 90:
             return "A"
-
         elif self.marks >= 80:
             return "B"
-
         elif self.marks >= 70:
             return "C"
-
         elif self.marks >= 60:
             return "D"
-
         else:
             return "F"
 
