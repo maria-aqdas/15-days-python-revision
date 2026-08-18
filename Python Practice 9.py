@@ -49,10 +49,8 @@ class StudentIntro:
         print("I am studying", self.field)
 # Creating an object
 student = StudentIntro("Maria", "Data Science")
-
 print("Q3: Student Introduction")
 student.introduce()
-
 print("-" * 50)
 
 # Q4. CALCULATOR CLASS
@@ -63,7 +61,6 @@ print("-" * 50)
 # divide()
 
 class Calculator:
-
     def add(self, a, b):
         return a + b
     def subtract(self, a, b):
