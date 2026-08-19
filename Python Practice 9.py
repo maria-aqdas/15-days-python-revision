@@ -200,7 +200,7 @@ print("Marks:", highest.marks)
 print("-" * 50)
 
 # Q9. SHOPPING CART
-# ============================================================
+
 # The ShoppingCart class stores items and their prices.
 #
 # Methods:
