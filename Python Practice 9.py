@@ -200,9 +200,7 @@ print("Marks:", highest.marks)
 print("-" * 50)
 
 # Q9. SHOPPING CART
-
 # The ShoppingCart class stores items and their prices.
-#
 # Methods:
 # add_item()
 # remove_item()
@@ -210,7 +208,6 @@ print("-" * 50)
 # calculate_total()
 
 class ShoppingCart:
-
     def __init__(self):
 
         # Dictionary will store:
