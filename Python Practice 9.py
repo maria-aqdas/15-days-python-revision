@@ -226,17 +226,10 @@ class ShoppingCart:
         if not self.items:
             print("Cart is empty")
             return
-
         for name, price in self.items.items():
-
             print(name, ":", price)
-
-    # Calculate total price
     def calculate_total(self):
-
         return sum(self.items.values())
-
-
 # Creating ShoppingCart object
 cart = ShoppingCart()
 
