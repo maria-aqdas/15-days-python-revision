@@ -240,17 +240,11 @@ cart.add_item("Keyboard", 5000)
 print("Items in cart:")
 cart.show_items()
 print("Total:", cart.calculate_total())
-
-# Removing an item
 cart.remove_item("Mouse")
-
 print()
 print("After removing Mouse:")
-
 cart.show_items()
-
 print("Total:", cart.calculate_total())
-
 print("-" * 50)
 
 
