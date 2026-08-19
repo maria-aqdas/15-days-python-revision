@@ -219,11 +219,8 @@ class ShoppingCart:
     def remove_item(self, name):
         if name in self.items:
             del self.items[name]
-
         else:
-
             print("Item not found")
-
     # Display all items
     def show_items(self):
 
