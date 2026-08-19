@@ -223,11 +223,8 @@ class ShoppingCart:
             print("Item not found")
     # Display all items
     def show_items(self):
-
         if not self.items:
-
             print("Cart is empty")
-
             return
 
         for name, price in self.items.items():
