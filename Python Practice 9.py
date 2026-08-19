@@ -265,30 +265,14 @@ class StudentManagement:
         self.marks = marks
 # List that will contain all student objects
 student_list = []
-
-
-# ------------------------------------------------------------
-# Function: Add Student
-# ------------------------------------------------------------
-
 def add_student():
-
     name = input("Enter student name: ")
-
     marks = float(input("Enter marks: "))
-
     # Create a Student object
     student = StudentManagement(name, marks)
-
     # Add object to the list
     student_list.append(student)
-
     print("Student added successfully.")
-
-
-# ------------------------------------------------------------
-# Function: Show Students
-# ------------------------------------------------------------
 
 def show_students():
 
