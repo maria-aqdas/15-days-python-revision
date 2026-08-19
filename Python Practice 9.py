@@ -247,12 +247,8 @@ cart.show_items()
 print("Total:", cart.calculate_total())
 print("-" * 50)
 
-
-# ============================================================
 # Q10. STUDENT MANAGEMENT SYSTEM
-# ============================================================
 # This is the final challenge.
-#
 # Features:
 # 1. Add student
 # 2. Show students
@@ -260,18 +256,13 @@ print("-" * 50)
 # 4. Update marks
 # 5. Delete student
 # 6. Exit
-#
 # We will use a list of Student objects.
 
 
 class StudentManagement:
-
     def __init__(self, name, marks):
-
         self.name = name
         self.marks = marks
-
-
 # List that will contain all student objects
 student_list = []
 
