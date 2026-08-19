@@ -232,18 +232,13 @@ class ShoppingCart:
         return sum(self.items.values())
 # Creating ShoppingCart object
 cart = ShoppingCart()
-
 print("Q9: Shopping Cart")
-
 # Adding items
 cart.add_item("Laptop", 100000)
 cart.add_item("Mouse", 2000)
 cart.add_item("Keyboard", 5000)
-
 print("Items in cart:")
-
 cart.show_items()
-
 print("Total:", cart.calculate_total())
 
 # Removing an item
