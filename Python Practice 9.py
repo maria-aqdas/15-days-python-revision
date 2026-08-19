@@ -209,21 +209,15 @@ print("-" * 50)
 
 class ShoppingCart:
     def __init__(self):
-
         # Dictionary will store:
         # item name -> price
         self.items = {}
-
     # Add an item to the cart
     def add_item(self, name, price):
-
         self.items[name] = price
-
     # Remove an item from the cart
     def remove_item(self, name):
-
         if name in self.items:
-
             del self.items[name]
 
         else:
