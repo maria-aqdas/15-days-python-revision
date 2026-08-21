@@ -2,7 +2,7 @@
 print("Allah Almighty is the most merciful and compassionate.")
 print('Allah is my heart and my soul.')
 print('''He is the creator of the universe and everything in it. 
-He is the one who gives us life and sustains us. ''')
+He is the one who gives us life and sustains us. ''')  
 print("------------------------------")
 
 # FORMATED STRING: A formatted string is a string that contains placeholders for variables or expressions.
