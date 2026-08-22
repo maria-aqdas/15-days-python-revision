@@ -277,11 +277,8 @@ def show_students():
     # Check if list is empty
     if not student_list:
         print("No students found.")
-
         return
-
     print("\nStudents:")
-
     # Display every student
     for student in student_list:
 
