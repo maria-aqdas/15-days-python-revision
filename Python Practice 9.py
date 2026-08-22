@@ -294,12 +294,7 @@ def show_students():
             "| Marks:",
             student.marks
         )
-
-
-# ------------------------------------------------------------
 # Function: Search Student
-# ------------------------------------------------------------
-
 def search_student():
     name = input("Enter student name to search: ")
     # Search through all objects
