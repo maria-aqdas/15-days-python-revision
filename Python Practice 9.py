@@ -321,8 +321,6 @@ def delete_student():
             print("Student deleted successfully.")
             return
     print("Student not found.")
-
-
 # MAIN MENU
 while True:
 
