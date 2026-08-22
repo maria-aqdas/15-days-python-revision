@@ -273,12 +273,9 @@ def add_student():
     # Add object to the list
     student_list.append(student)
     print("Student added successfully.")
-
 def show_students():
-
     # Check if list is empty
     if not student_list:
-
         print("No students found.")
 
         return
