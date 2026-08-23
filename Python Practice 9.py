@@ -1,7 +1,7 @@
 # Q1. CREATE A CLASS
 # A class is a blueprint for creating objects.
 # Here, Student is an empty class.
-
+ 
 class Student:
     pass
 # Creating two objects from the Student class
