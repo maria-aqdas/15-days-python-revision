@@ -1,12 +1,12 @@
 # VARIABLE:  A varibale is a container used to store and manage data.
-a= 12
+a = 12
 print(a) 
  
-# DATA TYPE: In which type we store our data
-b=10
-c="Maria Aqdas"    
-d=12.4   
-e=True
+# DATA TYPE: In which type we store our data like integer, string, float, boolean etc.
+b=10    # integer data
+c="Alpha"    # string data
+d=12.4     # float data
+e=True #boolean data
 print(type(b))  
 print(type(c))
 print(type(d))
@@ -47,14 +47,14 @@ print(Power)
 print("----------")
 
 # COMPARSION OPERATORS:  Used to compare two values and return result in the form of TRUE or FALSE depending on the condition.
-var1=50
-var2=40
-print(var1==var2)
-print(var1!=var2)
-print(var1<=var2)
-print(var1>=var2)
-print(var1<var2)
-print(var1>var2)
+num1=50
+num2=40
+print(num1==num2)
+print(num1!=num2)
+print(num1<=num2)
+print(num1>=num2)
+print(num1<num2)
+print(num1>num2)
 print("----------")
 
 # LOGICAL OPERATORS: They are used to compare multiple expressions and conditions and return result in the form of TRUE or FALSE
@@ -112,12 +112,12 @@ else:
 print("----------")
 
 # Largest of Two Numbers
-a=int(input("Enter a: "))
-b=int(input("Enter b: "))
+a=int(input("Enter NUMBER1: "))
+b=int(input("Enter NUMBER2: "))
 if(a>b):
-    print("a is larger.")     
+    print("NUMBER1 is larger.")     
 elif(a<b):
-    print("b is larger.")
+    print("NUMBER2 is larger.")
 else:
     print("Both are equal.")    
 print("----------")    
