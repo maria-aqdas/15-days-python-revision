@@ -2,7 +2,7 @@
 a= 12
 print(a) 
  
-# DATA TYPE: In which type we store our data
+# DATA TYPE: In which type we store our data 
 b=10
 c="Maria Aqdas"      
 d=12.4   
