@@ -2,7 +2,7 @@
 my_list = [1, 2, 3, 4, 5]
 print(my_list)
 print("---------------")  
- 
+  
 # Lists one of the most verstile data struture in python and are used to store multiple items in single variable.
 # string of items in a list are separated by commas and enclosed within square brackets.
 #list of strings
