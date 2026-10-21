@@ -7,7 +7,7 @@ print("---------------")
 # string of items in a list are separated by commas and enclosed within square brackets.
 #list of strings
 my_list = ["apple", "banana", "cherry"] 
-print(my_list)
+print(my_list)             
 print("---------------")
 
 #list of integers
