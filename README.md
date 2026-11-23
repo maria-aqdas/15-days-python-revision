@@ -1,7 +1,7 @@
 # 🐍 15 Days Python Revision
                                                            
 ### `Learning → Practicing → Building → Preparing for DSA`              
-
+                                  
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)](https://www.python.org/)
 [![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?logo=visualstudiocode\&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/Version%20Control-Git-orange?logo=git\&logoColor=white)](https://git-scm.com/)
