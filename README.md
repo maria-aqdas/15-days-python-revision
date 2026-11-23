@@ -51,7 +51,7 @@ By the end of this challenge, I want to be able to:
 | ✅ **08** | Advanced Functions    | `*args`, `**kwargs`, lambda, `map`, `filter`, `zip`        |
 | ✅ **09** | Pythonic Programming  | Comprehensions and useful built-in functions               |
 | ✅ **10** | Recursion             | Base cases, recursive thinking, call stack                 |
-| ⬜ **11** | OOP                   | Classes, objects, inheritance, encapsulation               |
+| ✅ **11** | OOP                   | Classes, objects, inheritance, encapsulation               |
 | ⬜ **12** | File & Error Handling | Files, exceptions, `try`, `except`, `finally`              |
 | ⬜ **13** | Modules & Packages    | Imports and code organization                              |
 | ⬜ **14** | NumPy & Pandas        | Arrays, DataFrames, basic data manipulation                |
