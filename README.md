@@ -54,7 +54,7 @@ By the end of this challenge, I want to be able to:
 | ✅ **11** | OOP                   | Classes, objects, inheritance, encapsulation               |
 | ✅ **12** | File & Error Handling | Files, exceptions, `try`, `except`, `finally`              |
 | ✅ **13** | Modules & Packages    | Imports and code organization                              |
-| ⬜ **14** | NumPy & Pandas        | Arrays, DataFrames, basic data manipulation                |
+| ✅ **14** | NumPy & Pandas        | Arrays, DataFrames, basic data manipulation                |
 | ⬜ **15** | Final Revision        | Mixed problems and independent coding                      |
 
 ---
