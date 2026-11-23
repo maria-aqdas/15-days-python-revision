@@ -47,7 +47,7 @@ By the end of this challenge, I want to be able to:
 | ✅ **04** | Lists                 | Methods, slicing, nested lists, problem solving            |
 | ✅ **05** | Tuples & Sets         | Operations, uniqueness, membership                         |
 | ✅ **06** | Dictionaries          | Key-value data, methods, frequency counting                |
-| ⬜ **07** | Functions             | Parameters, arguments, return values, scope                |
+| ✅ **07** | Functions             | Parameters, arguments, return values, scope                |
 | ⬜ **08** | Advanced Functions    | `*args`, `**kwargs`, lambda, `map`, `filter`, `zip`        |
 | ⬜ **09** | Pythonic Programming  | Comprehensions and useful built-in functions               |
 | ⬜ **10** | Recursion             | Base cases, recursive thinking, call stack                 |
