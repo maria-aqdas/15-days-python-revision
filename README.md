@@ -1,5 +1,5 @@
 # 🐍 15 Days Python Revision
-                                        
+                                                           
 ### `Learning → Practicing → Building → Preparing for DSA`              
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python\&logoColor=white)](https://www.python.org/)
