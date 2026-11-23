@@ -44,7 +44,7 @@ By the end of this challenge, I want to be able to:
 | ✅ **01** | Python Fundamentals   | Variables, data types, input/output, operators, conditions |
 | ✅ **02** | Loops                 | `for`, `while`, nested loops, loop control                 |
 | ✅ **03** | Strings               | Indexing, slicing, methods, string problems                |
-| ⬜ **04** | Lists                 | Methods, slicing, nested lists, problem solving            |
+| ✅ **04** | Lists                 | Methods, slicing, nested lists, problem solving            |
 | ⬜ **05** | Tuples & Sets         | Operations, uniqueness, membership                         |
 | ⬜ **06** | Dictionaries          | Key-value data, methods, frequency counting                |
 | ⬜ **07** | Functions             | Parameters, arguments, return values, scope                |
