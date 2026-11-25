@@ -1,4 +1,4 @@
-# LOOP: Loops enable you to execute a block of code multiple times. Python has two primary types of loops:
+# LOOP: Loops enable you to execute a block of code multiple times. Python has two primary types of loops:             
 #  for loops and while loops.  
                        
 #WHILE LOOP: A while loop repeatedly executes a block of code as long as a specified condition is true. The syntax is:
